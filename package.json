@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "observerchallengeexamination",
   "version": "1.0.0",
-  "description": "Observer challenge",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "17.0.2",
